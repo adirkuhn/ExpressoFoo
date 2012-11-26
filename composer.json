@@ -1,0 +1,19 @@
+{
+    "name": "expresso/expresoofoobundle",
+    "description": "Bundle Foo for tests in AppManager",
+    "minimum-stability": "dev",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Adir Kuhn",
+            "email": "adirkuhn@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Expresso\\ExpressoFooBundle": "" }
+    },
+    "target-dir": "Expresso/ExpressoFooBundle"
+}
