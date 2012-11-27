@@ -16,5 +16,10 @@
     "autoload": {
         "psr-0": { "Expresso\\ExpressoFooBundle": "" }
     },
-    "target-dir": "Expresso/ExpressoFooBundle"
+    "target-dir": "Expresso/ExpressoFooBundle",
+    "extra": {
+        "installer-paths": {
+            "hmm/teste/{$name}": ["vendor/package"]
+        }
+    }
 }
