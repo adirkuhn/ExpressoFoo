@@ -18,8 +18,6 @@
     },
     "target-dir": "Expresso/ExpressoFooBundle",
     "extra": {
-        "installer-paths": {
-            "hmm/teste/{$name}": ["vendor/package"]
-        }
+        "class": "Custom\\SystemInstaller"
     }
 }
