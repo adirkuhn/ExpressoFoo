@@ -13,5 +13,8 @@
     "require": {
         "expresso/appmanager-installer": "dev-master"
     },
+    "autoload": {
+        "psr-0": { "Expresso\\ExpressoFooBundle": "" }
+    },
     "target-dir": "Expresso/ExpressoFooBundle"
 }
