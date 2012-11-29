@@ -12,5 +12,6 @@
     ],
     "require": {
         "expresso/appmanager-installer": "dev-master"
-    }
+    },
+    "target-dir": "Expresso/ExpressoFooBundle"
 }
