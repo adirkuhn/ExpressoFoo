@@ -11,13 +11,6 @@
         }
     ],
     "require": {
-
-    },
-    "autoload": {
-        "psr-0": { "Expresso\\ExpressoFooBundle": "" }
-    },
-    "target-dir": "Expresso/ExpressoFooBundle",
-    "extra": {
-        "class": "Custom\\SystemInstaller"
+        "expresso/appmanager-installer": "dev-master"
     }
 }
