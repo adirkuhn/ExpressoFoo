@@ -1,6 +1,6 @@
 <?php
 
-namespace Expresso\ExpressoFooBundle\DependencyInjection;
+namespace ExpressoApps\Expresso\ExpressoFooBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

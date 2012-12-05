@@ -1,6 +1,6 @@
 <?php
 
-namespace Expresso\ExpressoFooBundle\DependencyInjection;
+namespace ExpressoApps\Expresso\ExpressoFooBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

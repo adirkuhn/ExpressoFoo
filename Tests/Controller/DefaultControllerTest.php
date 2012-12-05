@@ -1,6 +1,6 @@
 <?php
 
-namespace Expresso\ExpressoFooBundle\Tests\Controller;
+namespace ExpressoApps\Expresso\ExpressoFooBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
